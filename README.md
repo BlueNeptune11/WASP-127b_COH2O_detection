@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/947876420.svg)](https://doi.org/10.5281/zenodo.15593301)
+
+
 # WASP-127b CO and H2O detection
 - __Authors__: Nathan Besch, Neil Gibson
 - __Date__: June - July 2024
